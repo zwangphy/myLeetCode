@@ -96,7 +96,7 @@ class Solution:
 
 **Neat solution**
 
-For any (), [], {} in the list, replace it by white space. In the end, a valid sequence will be totally erased.
+For any (), [], {} in the list, replace it by white space. In the end, a valid sequence will be totally erased empty.
 
 ```
 class Solution(object):
