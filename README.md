@@ -103,11 +103,11 @@ class Solution(object):
     def isValid(self, s):
          while True:
             if '()' in s:
-                s= s.replace("()","")
+                s = s.replace("()","")
             elif '{}' in s:
-                s= s.replace ("{}","")
+                s = s.replace ("{}","")
             elif '[]' in s:
-                s=s.replace("[]","")
+                s = s.replace("[]","")
             else:
                 return not s
 ```            
