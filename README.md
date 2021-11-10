@@ -96,15 +96,18 @@ class Solution:
 
 **Neat solution**
 
-For any (), [], {} in the list, replace it by white space. In the end, a valid sequence will be totally erased empty.
+Replace any (), [], {} by white space. In the end, a valid sequence will be totally erased empty.
 
 ```
 class Solution(object):
     def isValid(self, s):
-        for i in range(int(len(s)/2)):
-            s = s.replace('[]', '').replace('()', '').replace('{}', '')
-			if len(s) == 0:
-				return True
-        if s:
-            return False
+         while True:
+            if '()' in s:
+                s= s.replace("()","")
+            elif '{}' in s:
+                s= s.replace ("{}","")
+            elif '[]' in s:
+                s=s.replace("[]","")
+            else:
+                return not s
 ```            
