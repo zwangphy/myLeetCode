@@ -105,6 +105,6 @@ class Solution(object):
             s = s.replace('[]', '').replace('()', '').replace('{}', '')
 			if len(s) == 0:
 				return True
-        if len(s) != 0:
+        if s:
             return False
 ```            
