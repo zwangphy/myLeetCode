@@ -13,12 +13,8 @@ Loop through every pair i,j in the list and calculate the volume.
 ```
 class Solution(object):
     def maxArea(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
-        L = len(height)
         
+        L = len(height)
         vol = 0
         
         for i in range(L):
@@ -48,7 +44,7 @@ class Solution:
                 i += 1
             else:
                 j -= 1
-        return result
+        return vol
 ```        
 
 Complexity: O(n)
