@@ -38,7 +38,7 @@ Consider the following case,
 The max distance pair is either given by the leftmost a and the rightmost b, or the leftmost a and rightmost b.
 
 Therefore, we can loop from A[0] until we find an index i where A[i] unequals A[-1].
-Next, loop from A[-1] until we find A[-j] != A[0].
+Next, loop from A[-1] until we find A[-j] != A[0]. Compare the two distances.
 
 
 ```
