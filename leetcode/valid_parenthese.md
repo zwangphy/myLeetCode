@@ -1,8 +1,8 @@
-## Valid parentheses (Leetcode 20)
+# Valid parentheses (Leetcode 20)
 https://leetcode.com/problems/valid-parentheses/
 > Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
-**Standard solution with stack**
+## Standard solution with stack
 
 *Basic idea*: Starting from the first element, if it is a left parenthesis, store it to a stack. When you see a right parenthesis, check if it matches with the last element of the stack. Not match: return false; matches: pop the stack and go forward.
 
@@ -53,7 +53,7 @@ class Solution:
         return not stack
 ```
 
-**Neat solution**
+## Neat solution
 
 Replace any (), [], {} by white space. In the end, a valid sequence will be totally erased empty.
 
