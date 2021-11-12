@@ -33,5 +33,22 @@ Complexity: O(n^2)
 ## better solution
 
 Create two indices. One index, i, runs from the leftmost element and the other, j, from rightmost.
-If height[i] < height[j], then by moving j to left we will not find a larger volume! Thus, the only way to find a larger volum is moving i to its right.
-Likewise, if height[i] > height[j], we need to move j to left.
+If height[i] < height[j], then varying j will not help you find a larger volume. 
+We need to move i to the right and along the way keep record of the max volume by far.
+At some i', perhaps height[i'] > height[j]. When that happens, we need to move j to the left.
+
+```
+class Solution:
+    def maxArea(self, height: List[int]) -> int:
+        vol = 0
+        i, j = 0, len(height)-1
+        while i < j:
+            vol = max(vol, (j-i)*min(height[i], height[j]))
+            if height[i] < height[j]:
+                i += 1
+            else:
+                j -= 1
+        return result
+```        
+
+Complexity: O(n)
