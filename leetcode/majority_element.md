@@ -24,7 +24,7 @@ class Solution(object):
                 return nums[i] 
 ```  
 
-If the majority element is not gaurenteed to be > n/2, exit the for loop and
+If the majority element is not gaurenteed to be > n/2, complete the for loop and
 ```
 return max(count,key=count.get)
 ```
