@@ -3,11 +3,11 @@
 > Given an array A[], find the maximum distance between two unequal elements of the given array. Return -1 if all elements are equal.
 > 
 > Examples:
->> Input: arr[] = {3, 2, 1, 2, 1} 
+>> Input: A = [3, 2, 1, 2, 1]
 >> 
 >> Output: 4 
 >> 
->> Input: arr[] = {3, 3, 1, 3, 3} 
+>> Input: A = [3, 3, 1, 3, 3] 
 >> 
 >> Output: 2 
 
