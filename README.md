@@ -2,7 +2,7 @@
 my solutions to some leetcode and other coding problems
 
 ## leetcode problems
-* Hashtable
+* Hash table
   * [majority element (leetcode 169)](/leetcode/majority_element.md)
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
