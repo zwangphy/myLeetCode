@@ -4,6 +4,7 @@ my solutions to some leetcode and other coding problems
 ## leetcode problems
 * Hash table
   * [majority element (leetcode 169)](/leetcode/majority_element.md)
+  * [substring position](/leetcode/substring_position.md)
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
 * Two pointer
