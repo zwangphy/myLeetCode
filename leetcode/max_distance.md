@@ -87,3 +87,6 @@ def maxDistance(A):
 
     d_max = max(d_left, d_right)
     return d_max
+```
+
+Complexity: O(n)
