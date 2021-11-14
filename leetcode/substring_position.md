@@ -28,7 +28,7 @@ def f(s):
       return i
         
   return -1
+```      
 
-'''      
+[//]: # (Note: for l in s: ... return s.index l doesn't work.)      
 
-<!-- Text -->
