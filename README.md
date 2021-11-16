@@ -12,4 +12,10 @@ my solutions to some leetcode and other coding problems
   * [remove element (leetcode 27)](/leetcode/remove_element.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
+* Binary search
+  * [search insert position (leetcode 35)]() 
+  * [sqrt(x) (leetcode 69)]()
+* Backtracking 
+  * [generate parentheses (leetcode 22)]()
+  * [letter combinations of a phone number (leetcode 17)]()
  
