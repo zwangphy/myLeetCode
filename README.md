@@ -14,7 +14,7 @@ my solutions to some leetcode and other coding problems
   * [max distance between two unequal elements](/leetcode/max_distance.md)
 * Binary search
   * [search insert position (leetcode 35)]() 
-  * [sqrt(x) (leetcode 69)]()
+  * [sqrt(x) (leetcode 69)](/leetcode/sqrt(x).md)
 * Backtracking 
   * [generate parentheses (leetcode 22)](/leetcode/generate_parentheses.md)
   * [letter combinations of a phone number (leetcode 17)]()
