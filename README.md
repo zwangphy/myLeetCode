@@ -16,6 +16,6 @@ my solutions to some leetcode and other coding problems
   * [search insert position (leetcode 35)]() 
   * [sqrt(x) (leetcode 69)]()
 * Backtracking 
-  * [generate parentheses (leetcode 22)]()
+  * [generate parentheses (leetcode 22)](/leetcode/generate_parentheses.md)
   * [letter combinations of a phone number (leetcode 17)]()
  
