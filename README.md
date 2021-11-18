@@ -13,8 +13,8 @@ my solutions to some leetcode and other coding problems
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
 * Binary search
-  * [search insert position (leetcode 35)]() 
   * [sqrt(x) (leetcode 69)](/leetcode/sqrt(x).md)
+  * [search insert position (leetcode 35)](/leetcode/search_insert_position.md) 
 * Backtracking 
   * [generate parentheses (leetcode 22)](/leetcode/generate_parentheses.md)
   * [letter combinations of a phone number (leetcode 17)]()
