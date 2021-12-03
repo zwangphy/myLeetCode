@@ -18,4 +18,7 @@ my solutions to some leetcode and other coding problems
 * Backtracking 
   * [generate parentheses (leetcode 22)](/leetcode/generate_parentheses.md)
   * [letter combinations of a phone number (leetcode 17)]()
+* Math related
+  * [fibonacci numbers (leetcode 501)](/leetcode/fib.md)
+  * [power of 2 (leetcode 231)](/leetcode/powerof2.md)
  
