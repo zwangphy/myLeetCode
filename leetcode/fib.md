@@ -51,6 +51,9 @@ def fib(self, n: int) -> int:
         return x
 ```
 
+This link gives a nice intro to the underscore _ sign in python.
+https://www.datacamp.com/community/tutorials/role-underscore-python
+
 ## Analytic formula
 
 There is in fact an analytic formula to compute the n-th Fib number.
