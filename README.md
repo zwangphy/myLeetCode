@@ -5,6 +5,7 @@ my solutions to some leetcode and other coding problems
 * Hash table
   * [majority element (leetcode 169)](/leetcode/majority_element.md)
   * [substring position](/leetcode/substring_position.md)
+  * [roman to integer (leetcode 13)](/leetcode/roman_to_integer.md)
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
 * Two pointer
