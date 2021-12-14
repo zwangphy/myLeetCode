@@ -20,8 +20,9 @@ my solutions to some leetcode and other coding problems
 * Backtracking 
   * [generate parentheses (leetcode 22)](/leetcode/generate_parentheses.md)
   * [letter combinations of a phone number (leetcode 17)]()
+* Dynamical programming
+  * [fibonacci numbers (leetcode 509) and related problems](/leetcode/fib.md)
 * Math related
-  * [fibonacci numbers (leetcode 509)](/leetcode/fib.md)
   * [power of 2 (leetcode 231)](/leetcode/powerof2.md)
   * [factorial trailing zeros (leetcode 172)](/leetcode/trailing0.md)
  
