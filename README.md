@@ -8,6 +8,8 @@ my solutions to some leetcode and other coding problems
   * [roman to integer (leetcode 13)](/leetcode/roman_to_integer.md)
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
+* Strings
+  * [capitalize words](/leetcode/capitalize_words.md)  
 * Two pointer
   * [number of good subsets](/leetcode/number_of_good_subsets.md)
   * [remove element (leetcode 27)](/leetcode/remove_element.md)
