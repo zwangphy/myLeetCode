@@ -25,6 +25,6 @@ my solutions to some leetcode and other coding problems
 * Dynamical programming
   * [fibonacci numbers (leetcode 509) and related problems](/leetcode/fib.md)
 * Math related
-  * [power of 2 (leetcode 231)](/leetcode/powerof2.md)
+  * [power of 2 (leetcode 231)](/leetcode/powerof2.py)
   * [factorial trailing zeros (leetcode 172)](/leetcode/trailing0.md)
  
