@@ -9,7 +9,7 @@ my solutions to some leetcode and other coding problems
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
 * Strings
-  * [capitalize words](/leetcode/capitalize_words.md)  
+  * [capitalize words](/leetcode/capitalize_words.ipynb)  
 * Two pointer
   * [number of good subsets](/leetcode/number_of_good_subsets.md)
   * [remove element (leetcode 27)](/leetcode/remove_element.md)
