@@ -28,4 +28,5 @@ my solutions to some leetcode and other coding problems
 * Math related
   * [power of 2 (leetcode 231)](/leetcode/powerof2.py)
   * [factorial trailing zeros (leetcode 172)](/leetcode/trailing0.md)
+  * [digit sum](/leetcode/digit_sum.md)
  
