@@ -6,6 +6,7 @@ my solutions to some leetcode and other coding problems
   * [majority element (leetcode 169)](/leetcode/majority_element.md)
   * [substring position](/leetcode/substring_position.md)
   * [roman to integer (leetcode 13)](/leetcode/roman_to_integer.md)
+  * [two sum (leetcode 1)](/leetcode/two_sum.md)
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
 * Strings
@@ -16,6 +17,7 @@ my solutions to some leetcode and other coding problems
   * [remove duplicates (leetcode 26)](/leetcode/remove_duplicates.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
+  * [longest substring without repeating characters](/leetcode/longest_substring.md)
 * Binary search
   * [sqrt(x) (leetcode 69)](/leetcode/sqrt(x).md)
   * [search insert position (leetcode 35)](/leetcode/search_insert_position.md) 
