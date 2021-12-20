@@ -13,7 +13,7 @@ https://leetcode.com/problems/happy-number/
 
 ## solution
 
-First of all, we write a helper function to transform the number in the prescribed way. This is similar to the previous problem [digit sum](/digit_sum.md). 
+First of all, we write a helper function to transform the number in the prescribed way. This is similar to the previous problem [digit sum](/leetcode/digit_sum.md). 
 We can then use a set to store the result, until either 1 (return true) or a repeating result (return false) is obtained.
 
 ```
