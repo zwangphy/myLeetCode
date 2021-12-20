@@ -11,7 +11,7 @@ my solutions to some leetcode and other coding problems
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
 * Strings
   * [capitalize words](/leetcode/capitalize_words.ipynb)  
-* Two pointer
+* Two pointer/sliding window
   * [number of good subsets](/leetcode/number_of_good_subsets.md)
   * [remove element (leetcode 27)](/leetcode/remove_element.md)
   * [remove duplicates (leetcode 26)](/leetcode/remove_duplicates.md)
