@@ -1,7 +1,7 @@
 # myLeetCode
 my solutions to some leetcode and other coding problems
 
-## leetcode problems
+## python
 * Hash table
   * [majority element (leetcode 169)](/leetcode/majority_element.md)
   * [substring position](/leetcode/substring_position.md)
@@ -11,7 +11,7 @@ my solutions to some leetcode and other coding problems
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
 * Strings
-  * [valid palindrome](/leetcode/valid_palindrome.md) 
+  * [valid palindrome (leetcode 125)](/leetcode/valid_palindrome.md) 
   * [capitalize words](/leetcode/capitalize_words.ipynb)  
 * Two pointer/sliding window
   * [number of good subsets](/leetcode/number_of_good_subsets.md)
@@ -35,3 +35,4 @@ my solutions to some leetcode and other coding problems
   * [digit sum](/leetcode/digit_sum.md)
   * [happy number (leetcode 202)](/leetcode/happy_number.md)
  
+## SQL
