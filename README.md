@@ -11,6 +11,7 @@ my solutions to some leetcode and other coding problems
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
 * Strings
+  * [valid palindrome](/leetcode/valid_palindrome.md) 
   * [capitalize words](/leetcode/capitalize_words.ipynb)  
 * Two pointer/sliding window
   * [number of good subsets](/leetcode/number_of_good_subsets.md)
