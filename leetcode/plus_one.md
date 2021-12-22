@@ -8,7 +8,7 @@ https://leetcode.com/problems/plus-one/
 
 > Increment the large integer by one and return the resulting array of digits.
 
-# solution (brute force)
+## solution (brute force)
 
 Idea: if the last element of the array is not 9, we can simply add one to that element and return the array. If it is 9, 
 we replace all neighboring 9's by 0's until we see an element that's not 9 (and add one to that element). 
