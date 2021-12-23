@@ -4,14 +4,16 @@ my solutions to some leetcode and other coding problems
 ## python
 * Hash table
   * [majority element (leetcode 169)](/leetcode/majority_element.md)
-  * [substring position](/leetcode/substring_position.md)
   * [roman to integer (leetcode 13)](/leetcode/roman_to_integer.md)
   * [two sum (leetcode 1)](/leetcode/two_sum.md)
   * [single number (leetcode 136)](/leetcode/single_number.md)
+  * [isomorphic string (leetcode 205)](/leetcode/isomorphic_string.md)
+  * [substring position](/leetcode/substring_position.md)
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
 * Strings
   * [valid palindrome (leetcode 125)](/leetcode/valid_palindrome.md) 
+  * [longest common prefix (leetcode 14)](/leetcode/longest_common_prefix.md)
   * [capitalize words](/leetcode/capitalize_words.ipynb)  
 * Two pointer/sliding window
   * [number of good subsets](/leetcode/number_of_good_subsets.md)
@@ -29,6 +31,7 @@ my solutions to some leetcode and other coding problems
 * Dynamical programming
   * [fibonacci numbers (leetcode 509) and related problems](/leetcode/fib.md)
   * [decode ways (leetcode 91)](/leetcode/decode_ways.md)
+  * [coin change (leetcode 322)](/leetcode/coin_change.md)
 * Calculators
   * [plus one (leetcode 66)](/leetcode/plus_one.md) 
 * Math related
