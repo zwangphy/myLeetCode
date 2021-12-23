@@ -7,7 +7,7 @@ my solutions to some leetcode and other coding problems
   * [roman to integer (leetcode 13)](/leetcode/roman_to_integer.md)
   * [two sum (leetcode 1)](/leetcode/two_sum.md)
   * [single number (leetcode 136)](/leetcode/single_number.md)
-  * [isomorphic string (leetcode 205)](/leetcode/isomorphic_string.md)
+  * [isomorphic strings (leetcode 205)](/leetcode/isomorphic_strings.md)
   * [substring position](/leetcode/substring_position.md)
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
