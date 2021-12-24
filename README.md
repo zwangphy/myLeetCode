@@ -15,7 +15,7 @@ my solutions to some leetcode and other coding problems
   * [valid palindrome (leetcode 125)](/leetcode/valid_palindrome.md) 
   * [longest common prefix (leetcode 14)](/leetcode/longest_common_prefix.md)
   * [capitalize words](/leetcode/capitalize_words.ipynb)  
-  * [length_of_last_word (leetcode 58)](/leetcode/length_of_last_word.md)
+  * [length of last word (leetcode 58)](/leetcode/length_of_last_word.md)
 * Two pointer/sliding window
   * [number of good subsets](/leetcode/number_of_good_subsets.md)
   * [remove element (leetcode 27)](/leetcode/remove_element.md)
