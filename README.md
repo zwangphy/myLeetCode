@@ -17,7 +17,6 @@ my solutions to some leetcode and other coding problems
   * [capitalize words](/leetcode/capitalize_words.ipynb)  
   * [length of last word (leetcode 58)](/leetcode/length_of_last_word.md)
 * Two pointer/sliding window
-  * [number of good subsets](/leetcode/number_of_good_subsets.md)
   * [remove element (leetcode 27)](/leetcode/remove_element.md)
   * [remove duplicates (leetcode 26)](/leetcode/remove_duplicates.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
@@ -40,5 +39,6 @@ my solutions to some leetcode and other coding problems
   * [factorial trailing zeros (leetcode 172)](/leetcode/trailing0.md)
   * [digit sum](/leetcode/digit_sum.md)
   * [happy number (leetcode 202)](/leetcode/happy_number.md)
+  * [number of good subsets](/leetcode/number_of_good_subsets.md)
  
 ## SQL
