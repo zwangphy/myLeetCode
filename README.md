@@ -16,11 +16,13 @@ my solutions to some leetcode and other coding problems
   * [longest common prefix (leetcode 14)](/leetcode/longest_common_prefix.md)
   * [capitalize words](/leetcode/capitalize_words.ipynb)  
   * [length of last word (leetcode 58)](/leetcode/length_of_last_word.md)
-* Two pointer/sliding window
+* Two pointer
   * [remove element (leetcode 27)](/leetcode/remove_element.md)
   * [remove duplicates (leetcode 26)](/leetcode/remove_duplicates.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
+  * [reverse string (leetcode 344)](/leetcode/reverse_string.md)
+* Sliding window
   * [longest substring without repeating characters (leetcode 3)](/leetcode/longest_substring.md)
 * Binary search
   * [sqrt(x) (leetcode 69)](/leetcode/sqrt(x).md)
