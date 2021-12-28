@@ -23,8 +23,8 @@ class Solution:
 
 ## solution 2 (two pointer)
 
-*If the array is sorted*, set up two pointers, i from the first element and j from the last element. If `nums[i] + nums[j] < target`, set i to i+1; 
-if `nums[i] + nums[j] < target`, set j to j-1.
+*If the array is sorted*, set up two pointers, i from the first element and j from the last element. If `nums[i] + nums[j] < target`, reset i to i+1; 
+if `nums[i] + nums[j] > target`, reset j to j-1.
 
 Time complexity: O(n)
 
