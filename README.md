@@ -11,6 +11,7 @@ my solutions to some leetcode and other coding problems
   * [substring position](/leetcode/substring_position.md)
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
+  * [baseball game (leetcode 682)](/leetcode/baseball_game.md)
 * Strings
   * [valid palindrome (leetcode 125)](/leetcode/valid_palindrome.md) 
   * [longest common prefix (leetcode 14)](/leetcode/longest_common_prefix.md)
