@@ -25,6 +25,7 @@ my solutions to some leetcode and other coding problems
   * [reverse string (leetcode 344)](/leetcode/reverse_string.md)
 * Sliding window
   * [longest substring without repeating characters (leetcode 3)](/leetcode/longest_substring.md)
+  * [substrings of identical characters](/leetcode/substrings_of_identical_characters.md)
 * Binary search
   * [sqrt(x) (leetcode 69)](/leetcode/sqrt(x).md)
   * [search insert position (leetcode 35)](/leetcode/search_insert_position.md) 
