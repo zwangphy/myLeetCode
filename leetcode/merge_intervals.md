@@ -11,7 +11,7 @@ Sort the input array so intervals with smaller start values appear first. In thi
 with `intervals[i]`, all intervals after i+1 do not overlap with `intervals[i]` neither.
 
 The algorithm to solve this problem is as follows. For i,
-* If `intervals[i+1]` overlaps with `intervals[i]`, replace `intervals[i+1]`in-place by the merged interval. 
+* If `intervals[i+1]` overlaps with `intervals[i]`, replace `intervals[i+1]` in-place by the merged interval. 
 * If `intervals[i+1]` does not overlap with `intervals[i]`, append `intervals[i]` to the output
 array. 
 
