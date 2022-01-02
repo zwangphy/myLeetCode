@@ -39,6 +39,7 @@ my solutions to some leetcode and other coding problems
 * Dynamical programming
   * [fibonacci numbers (leetcode 509) and related problems](/leetcode/fib.md)
   * [min cost climbing stairs (leetcode 746)](/leetcode/min_cost_climbing_stairs.md)
+  * [maximum subarray (leetcode 53)](/leetcode/maximum_subarray.md)
   * [decode ways (leetcode 91)](/leetcode/decode_ways.md)
   * [coin change (leetcode 322)](/leetcode/coin_change.md)
 * Calculators
