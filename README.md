@@ -11,6 +11,7 @@ my solutions to some leetcode and other coding problems
   * [substring position](/leetcode/substring_position.md)
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
+  * [minimum add to make parentheses valid (leetcode 921)](/leetcode/make_parentheses_valid.md)
   * [baseball game (leetcode 682)](/leetcode/baseball_game.md)
 * Strings
   * [valid palindrome (leetcode 125)](/leetcode/valid_palindrome.md) 
@@ -37,6 +38,7 @@ my solutions to some leetcode and other coding problems
   * [letter combinations of a phone number (leetcode 17)]()
 * Dynamical programming
   * [fibonacci numbers (leetcode 509) and related problems](/leetcode/fib.md)
+  * [min cost climbing stairs (leetcode 746)](/leetcode/min_cost_climbing_stairs.md)
   * [decode ways (leetcode 91)](/leetcode/decode_ways.md)
   * [coin change (leetcode 322)](/leetcode/coin_change.md)
 * Calculators
