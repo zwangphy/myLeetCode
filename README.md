@@ -5,7 +5,7 @@ my solutions to some leetcode and other coding problems
 * Hash table
   * [majority element (leetcode 169)](/leetcode/majority_element.md)
   * [single number (leetcode 136)](/leetcode/single_number.md)
-  * [first_unique_character in a string (leetcode 387)](/leetcode/first_unique_character.md)
+  * [first unique character in a string (leetcode 387)](/leetcode/first_unique_character.md)
   * [two sum (leetcode 1)](/leetcode/two_sum.md)
   * [isomorphic strings (leetcode 205)](/leetcode/isomorphic_strings.md)
   * [roman to integer (leetcode 13)](/leetcode/roman_to_integer.md)
@@ -21,7 +21,7 @@ my solutions to some leetcode and other coding problems
   * [capitalize words](/leetcode/capitalize_words.ipynb)  
   * [length of last word (leetcode 58)](/leetcode/length_of_last_word.md)
 * Sorting
-  * [sort array by increasing frequency (leetcode 1636)](sort_array_by_increasing_frequency.md)
+  * [sort array by increasing frequency (leetcode 1636)](/leetcode/sort_array_by_increasing_frequency.md)
   * [sort characters by frequency (leetcode 451)](/leetcode/sort_characters_by_frequency.md)
   * [number of good subsets](/leetcode/number_of_good_subsets.md)
   * [merge intervals (leetcode 56)](/leetcode/merge_intervals.md)
