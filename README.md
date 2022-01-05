@@ -23,6 +23,8 @@ my solutions to some leetcode and other coding problems
 * Sorting
   * [sort array by increasing frequency (leetcode 1636)](/leetcode/sort_array_by_increasing_frequency.md)
   * [sort characters by frequency (leetcode 451)](/leetcode/sort_characters_by_frequency.md)
+  * [minimum difference between highest and lowest of k scores (leetcode 1984)](/leetcode/min_difference_between_highest_and_lowest.md)
+  * [array partition 1 (leetcode 561)](/leetcode/array_partition1.md)
   * [number of good subsets](/leetcode/number_of_good_subsets.md)
   * [merge intervals (leetcode 56)](/leetcode/merge_intervals.md)
 * Two pointer
