@@ -8,6 +8,8 @@ my solutions to some leetcode and other coding problems
   * [first unique character in a string (leetcode 387)](/leetcode/first_unique_character.md)
   * [two sum (leetcode 1)](/leetcode/two_sum.md)
   * [isomorphic strings (leetcode 205)](/leetcode/isomorphic_strings.md)
+  * [ransom note (leetcode 383)](/leetcode/ransom_note.md)
+  * [find the difference (leetcode 389)](/leetcode/find_the_difference.md)
   * [roman to integer (leetcode 13)](/leetcode/roman_to_integer.md)
   * [substring position](/leetcode/substring_position.md)
 * Stack
@@ -30,6 +32,7 @@ my solutions to some leetcode and other coding problems
 * Two pointer
   * [remove element (leetcode 27)](/leetcode/remove_element.md)
   * [remove duplicates (leetcode 26)](/leetcode/remove_duplicates.md)
+  * [is subsequence (leetcode 392)](/leetcode/is_subsequence.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
   * [reverse string (leetcode 344)](/leetcode/reverse_string.md)
