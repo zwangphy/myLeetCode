@@ -9,7 +9,7 @@ https://leetcode.com/problems/remove-element/
 **Basic idea**:
 
 Loop through every element in the list with index j. Create another index i, which tracks the nuumber of elements not equal to `val`. 
-If the `nums[j] != val`, add i by one and update nums[i] by nums[j].
+If the `nums[j] != val`, update `nums[i]` by `nums[j]` and add i by one.
 
 ```
 class Solution(object):
