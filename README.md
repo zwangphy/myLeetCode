@@ -3,15 +3,16 @@ my solutions to some leetcode and other coding problems
 
 ## python
 * Hash table
-  * [majority element (leetcode 169)](/leetcode/majority_element.md)
-  * [single number (leetcode 136)](/leetcode/single_number.md)
-  * [first unique character in a string (leetcode 387)](/leetcode/first_unique_character.md)
   * [two sum (leetcode 1)](/leetcode/two_sum.md)
-  * [isomorphic strings (leetcode 205)](/leetcode/isomorphic_strings.md)
-  * [ransom note (leetcode 383)](/leetcode/ransom_note.md)
-  * [find the difference (leetcode 389)](/leetcode/find_the_difference.md)
-  * [roman to integer (leetcode 13)](/leetcode/roman_to_integer.md)
-  * [substring position](/leetcode/substring_position.md)
+  * counting related
+    * [majority element (leetcode 169)](/leetcode/majority_element.md)
+    * [single number (leetcode 136)](/leetcode/single_number.md)
+    * [first unique character in a string (leetcode 387)](/leetcode/first_unique_character.md)
+    * [isomorphic strings (leetcode 205)](/leetcode/isomorphic_strings.md)
+    * [ransom note (leetcode 383)](/leetcode/ransom_note.md)
+    * [find the difference (leetcode 389)](/leetcode/find_the_difference.md)
+    * [substring position](/leetcode/substring_position.md) 
+  * [roman to integer (leetcode 13)](/leetcode/roman_to_integer.md) 
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
   * [minimum add to make parentheses valid (leetcode 921)](/leetcode/make_parentheses_valid.md)
@@ -30,13 +31,17 @@ my solutions to some leetcode and other coding problems
   * [number of good subsets](/leetcode/number_of_good_subsets.md)
   * [merge intervals (leetcode 56)](/leetcode/merge_intervals.md)
 * Two pointer
-  * [remove element (leetcode 27)](/leetcode/remove_element.md)
-  * [remove duplicates (leetcode 26)](/leetcode/remove_duplicates.md)
+  * In-place array manipulation
+    * [reverse string (leetcode 344)](/leetcode/reverse_string.md)
+    * [sort array by parity (leetcode 905)](/leetcode/sort_array_by_parity.md)
+    * [remove element (leetcode 27)](/leetcode/remove_element.md)
+    * [remove duplicates (leetcode 26)](/leetcode/remove_duplicates.md)
+    * [move zeroes (leetcode 283)](/leetcode/move_zeroes.md)
   * [is subsequence (leetcode 392)](/leetcode/is_subsequence.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
-  * [reverse string (leetcode 344)](/leetcode/reverse_string.md)
 * Sliding window
+  * [max consecutive ones (leetcode 485)](/leetcode/max_consecutive_ones.md)
   * [longest substring without repeating characters (leetcode 3)](/leetcode/longest_substring.md)
   * [substrings of identical characters](/leetcode/substrings_of_identical_characters.md)
 * Binary search
