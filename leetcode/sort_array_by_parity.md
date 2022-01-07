@@ -12,6 +12,8 @@ Similar to the previous question. Loop the array by two pointer, i from left and
 
 If `nums[i]` is even, we keep its position and reset `i += 1`. Likewise for odd `nums[j]`. 
 When `nums[i]` is odd and `nums[j` is even simultaneously, swap their positions.
+(Note that you must make sure that if `nums[i]` and `nums[j] `are both odd or both even,
+only one of the pointers gets updated and the other stays there.)
 
 Time complexity: O(n)
 
