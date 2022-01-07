@@ -32,7 +32,7 @@ n = len(s)
 ```
 class Solution:
     def reverseString(self, s: List[str]) -> None:
-        s = s.reverse()
+        s.reverse()
 ```
 
 Note: `s[::-1]` returns the reversed string.
