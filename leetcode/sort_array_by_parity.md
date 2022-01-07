@@ -8,6 +8,11 @@ Return any array that satisfies this condition.
 
 ## solution
 
+Similar to the previous question. Loop the array by two pointer, i from left and j from right.
+
+If `nums[i]` is even, we keep its position and reset `i += 1`. Likewise for odd `nums[j]`. 
+When `nums[i]` is odd and `nums[j` is even simultaneously, swap their positions.
+
 ```
 class Solution:
     def sortArrayByParity(self, nums: List[int]) -> List[int]:
