@@ -9,6 +9,9 @@ https://leetcode.com/problems/reverse-string/
 
 Reversing the array = Swapping `s[0]` with `s[-1]`, swapping `s[1]` with `s[-2]`, ...
 
+So we can loop the array by two pointers, one from left and one from right. Swap the values and move both pointers towards each other.
+Stop when left >= right.
+
 ```
 class Solution:
     def reverseString(self, s: List[str]) -> None:
