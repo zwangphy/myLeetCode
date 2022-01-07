@@ -17,7 +17,7 @@ class Solution:
                 i += 1
             if nums[j]%2 == 1:
                 j -= 1
-            elif nums[i]%2 == 1 and nums[j]%2 == 0: # must use elif, not if
+            elif nums[i]%2 == 1 and nums[j]%2 == 0: # must use elif here; not if
                 nums[i], nums[j] = nums[j], nums[i]
                 i += 1
                 j -= 1
