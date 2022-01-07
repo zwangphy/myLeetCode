@@ -13,6 +13,8 @@ Similar to the previous question. Loop the array by two pointer, i from left and
 If `nums[i]` is even, we keep its position and reset `i += 1`. Likewise for odd `nums[j]`. 
 When `nums[i]` is odd and `nums[j` is even simultaneously, swap their positions.
 
+Time complexity: O(n)
+
 ```
 class Solution:
     def sortArrayByParity(self, nums: List[int]) -> List[int]:
