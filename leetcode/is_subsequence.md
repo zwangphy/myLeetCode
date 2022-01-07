@@ -12,7 +12,7 @@ A subsequence of a string is a new string that is formed from the original strin
 
 ### idea:
 Similar to [remove element](/remove_element.md), let a pointer j be the index we loop the string `t` and another pointer i be the pointer to string `s`.
-Initially, both i and j are set to zero. Then we check if `s[i]` appears in `t` by scanning `t[j]`. Update i only if `s[i] == t[j]`. Then check if
+Initially, both i and j are set to zero. Scan `t[j]` to see if `s[i]` appears in `t`. Update i only if `s[i] == t[j]`. Then check if
 `s[i+1]` appears in the rest of `t`, and so forth. Return `True` if all `s[i]` is found, i.e. the final value of i equals `len(s)`.
 
 Time complexity: O(n)
