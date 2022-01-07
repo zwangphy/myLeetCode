@@ -10,6 +10,10 @@ For every block of consecutive one's, set up a window. Record the length.
 
 Time complexity: O(n)
 
+Alternately, we can use a variable `consecutive_ones` to store the number of consecutive ones. 
+Starting from the first one in a block, add `consecutive_ones` by 1 for every one in the block. 
+If `nums[i] = 0`, reset `consecutive_ones` to zero.
+
 ```
 class Solution:
     def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
