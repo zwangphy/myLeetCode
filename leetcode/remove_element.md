@@ -2,13 +2,14 @@
 
 https://leetcode.com/problems/remove-element/
 
-> Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The relative order of the elements may be changed.
+> Given an integer array `nums` and an integer `val`, remove all occurrences of `val` in nums in-place. The relative order of the elements may be changed.
 
 ## Solution
 
 **Basic idea**:
 
-Loop through every element in the list with index j. Create a second index i. If the j-th element is not the target val, add i by one and redefine nums[i] by nums[j].
+Loop through every element in the list with index j. Create another index i, which tracks the nuumber of elements not equal to `val`. 
+If the `nums[j] != val`, add i by one and update nums[i] by nums[j].
 
 ```
 class Solution(object):
