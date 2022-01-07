@@ -19,6 +19,14 @@ class Solution:
             right -= 1
 ```
 
+Equivalently, we can acheive the swapping by a single for loop
+
+```
+n = len(s)
+        for i in range(n//2):
+            s[i], s[n-i-1] = s[n-1-i], s[i]
+```
+
 ## solution 2: one-line solution
 
 ```
@@ -26,3 +34,5 @@ class Solution:
     def reverseString(self, s: List[str]) -> None:
         s = s.reverse()
 ```
+
+Note: `s[::-1]` returns the reversed string.
