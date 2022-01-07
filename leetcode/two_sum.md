@@ -2,15 +2,17 @@
 
 https://leetcode.com/problems/two-sum/
 
-> Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+> Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
+>
 > You may assume that each input would have exactly one solution, and you may not use the same element twice.
-> You can return the answer in any order.
+>
+>You can return the answer in any order.
 
 ## solution 1 (brute force)
 
-Compute the sum of every pair. 
+Compute the sum of every pair and check if it equal `target`. 
 
-Time complexity: O(n)
+Time complexity: O(n^2)
 
 ```
 class Solution:
@@ -42,7 +44,7 @@ class Solution:
 ```
 
 In general, *if the array is not sorted*, sorting requires O(n logn) time complexity. Furthermore, you need to be very careful 
-because the problem asks us to return the indices not the elements.  
+because the problem asks us to return the indices not the elements (sorting shuffles indices).  
 
 ### solution 3 (hash table)
 
@@ -60,6 +62,7 @@ class Solution:
 ```
 
 exercise problem: why the following code is unsuccessful?
+
 ```
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -75,3 +78,6 @@ Input: [3, 2, 4]
 Expected output: 1, 2
 
 Actual output: 0, 0
+
+It ignores an edge case of `nums[i] + nums[i] == target` where we shouldn't return i. 
+To avoid the situation, we must check if `nums[i]` is in the dictionary before adding it.
