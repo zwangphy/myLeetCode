@@ -38,6 +38,7 @@ my solutions to some leetcode and other coding problems
     * [remove duplicates (leetcode 26)](/leetcode/remove_duplicates.md)
     * [move zeroes (leetcode 283)](/leetcode/move_zeroes.md)
   * [is subsequence (leetcode 392)](/leetcode/is_subsequence.md)
+  * [longest parlindromic substring (leetcode 5)](/leetcode/longest_parlindromic_substring.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
 * Sliding window
