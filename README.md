@@ -38,7 +38,9 @@ my solutions to some leetcode and other coding problems
     * [remove duplicates (leetcode 26)](/leetcode/remove_duplicates.md)
     * [move zeroes (leetcode 283)](/leetcode/move_zeroes.md)
   * [is subsequence (leetcode 392)](/leetcode/is_subsequence.md)
-  * [longest parlindromic substring (leetcode 5)](/leetcode/longest_parlindromic_substring.md)
+  * [longest palindromic substring (leetcode 5)](/leetcode/longest_palindromic_substring.md)
+  * [squares of a sorted array (leetcode 977)](/leetcode/sqaures_of_a_sorted_array.md)
+  * [valid mountain array (leetcode 941)](/leetcode/valid_mountain_array.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
 * Sliding window
@@ -60,10 +62,14 @@ my solutions to some leetcode and other coding problems
 * Calculators
   * [plus one (leetcode 66)](/leetcode/plus_one.md) 
 * Math related
+  * Digits of an integer
+    * [digit sum](/leetcode/digit_sum.md)
+    * [reverse integer (leetcode 7)](/leetcode/reverse_integer.md)
+    * [palindrome number (leetcode 9)](/leetcode/palindrome_number.md)
+    * [happy number (leetcode 202)](/leetcode/happy_number.md)
   * [power of 2 (leetcode 231)](/leetcode/powerof2.py)
   * [factorial trailing zeros (leetcode 172)](/leetcode/trailing0.md)
-  * [digit sum](/leetcode/digit_sum.md)
-  * [happy number (leetcode 202)](/leetcode/happy_number.md)
+  
 
  
 ## SQL
