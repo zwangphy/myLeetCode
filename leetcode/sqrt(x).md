@@ -25,7 +25,7 @@ class Solution(object):
             return i-1
 ```
 
-Complexity: O(n)
+Complexity: O(sqrt n)
 
 ## binary search. 
 
