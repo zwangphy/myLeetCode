@@ -49,7 +49,7 @@ without introduing an auxillary array.
 ```
 while x != 0:
     digit = x % 10
-    reversed_num = reversed_num * 10 + digit
+    reversed_x = reversed_x * 10 + digit
     x //= 10
 ```
 
