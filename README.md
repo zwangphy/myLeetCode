@@ -64,8 +64,7 @@ my solutions to some leetcode and other coding problems
 * Math related
   * Digits of an integer
     * [digit sum](/leetcode/digit_sum.md)
-    * [reverse integer (leetcode 7)](/leetcode/reverse_integer.md)
-    * [palindrome number (leetcode 9)](/leetcode/palindrome_number.md)
+    * [reverse integer (leetcode 7) and palindrome number (leetcode 9)](/leetcode/reverse_integer.md)
     * [happy number (leetcode 202)](/leetcode/happy_number.md)
   * [power of 2 (leetcode 231)](/leetcode/powerof2.py)
   * [factorial trailing zeros (leetcode 172)](/leetcode/trailing0.md)
