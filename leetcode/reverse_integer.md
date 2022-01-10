@@ -75,3 +75,14 @@ class Solution:
         elif x < 0:
             return -self.reverse(-x)
 ```
+
+# palindrome number (leetcode 9)
+
+https://leetcode.com/problems/palindrome-number/
+
+## solution
+
+* If the input integer is negative, it's not a palindrome
+* If it's positive and is a multiple of 10, it's not a palindrome
+* If 0 <= x < 10, it's a palindrome
+* Otherwise, use the method of reversing an integer to check if `reversed_x == x`.
