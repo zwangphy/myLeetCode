@@ -13,6 +13,7 @@ my solutions to some leetcode and other coding problems
     * [find the difference (leetcode 389)](/leetcode/find_the_difference.md)
     * [substring position](/leetcode/substring_position.md) 
   * [roman to integer (leetcode 13)](/leetcode/roman_to_integer.md) 
+  * [first missing positive (leetcode 41)](/leetcode/first_missing_positive.md)
 * Stack
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
   * [minimum add to make parentheses valid (leetcode 921)](/leetcode/make_parentheses_valid.md)
@@ -30,7 +31,7 @@ my solutions to some leetcode and other coding problems
   * [array partition 1 (leetcode 561)](/leetcode/array_partition1.md)
   * [number of good subsets](/leetcode/number_of_good_subsets.md)
   * [merge intervals (leetcode 56)](/leetcode/merge_intervals.md)
-* Two pointer
+* Two pointers
   * In-place array manipulation
     * [reverse string (leetcode 344)](/leetcode/reverse_string.md)
     * [sort array by parity (leetcode 905)](/leetcode/sort_array_by_parity.md)
@@ -43,6 +44,7 @@ my solutions to some leetcode and other coding problems
   * [valid mountain array (leetcode 941)](/leetcode/valid_mountain_array.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
+  * [sort colors (leetcode 75)](/leetcode/sort_colors.md)
 * Sliding window
   * [max consecutive ones (leetcode 485)](/leetcode/max_consecutive_ones.md)
   * [longest substring without repeating characters (leetcode 3)](/leetcode/longest_substring.md)
@@ -53,9 +55,10 @@ my solutions to some leetcode and other coding problems
 * Backtracking 
   * [generate parentheses (leetcode 22)](/leetcode/generate_parentheses.md)
   * [letter combinations of a phone number (leetcode 17)]()
-* Dynamical programming
+* Dynamic programming
   * [fibonacci numbers (leetcode 509) and related problems](/leetcode/fib.md)
   * [min cost climbing stairs (leetcode 746)](/leetcode/min_cost_climbing_stairs.md)
+  * [unique paths (leetcode 62)](/leetocde/unique_paths.md)
   * [maximum subarray (leetcode 53)](/leetcode/maximum_subarray.md)
   * [decode ways (leetcode 91)](/leetcode/decode_ways.md)
   * [coin change (leetcode 322)](/leetcode/coin_change.md)
@@ -65,6 +68,7 @@ my solutions to some leetcode and other coding problems
   * Digits of an integer
     * [digit sum](/leetcode/digit_sum.md)
     * [reverse integer (leetcode 7) and palindrome number (leetcode 9)](/leetcode/reverse_integer.md)
+    * [find numbers with even number of digits (leetcode 1295)](/leetcode/even_number_of_digits.md)
     * [happy number (leetcode 202)](/leetcode/happy_number.md)
   * [power of 2 (leetcode 231)](/leetcode/powerof2.py)
   * [factorial trailing zeros (leetcode 172)](/leetcode/trailing0.md)
