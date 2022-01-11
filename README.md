@@ -1,7 +1,6 @@
 # myLeetCode
 my solutions to some leetcode and other coding problems
 
-## python
 * Hash table
   * [two sum (leetcode 1)](/leetcode/two_sum.md)
   * counting related
@@ -44,7 +43,9 @@ my solutions to some leetcode and other coding problems
   * [valid mountain array (leetcode 941)](/leetcode/valid_mountain_array.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
+* Three points
   * [sort colors (leetcode 75)](/leetcode/sort_colors.md)
+  * [string compression (leetcode 443)](/leetcode/string_compression.md) 
 * Sliding window
   * [max consecutive ones (leetcode 485)](/leetcode/max_consecutive_ones.md)
   * [longest substring without repeating characters (leetcode 3)](/leetcode/longest_substring.md)
@@ -74,5 +75,3 @@ my solutions to some leetcode and other coding problems
   * [factorial trailing zeros (leetcode 172)](/leetcode/trailing0.md)
   
 
- 
-## SQL
