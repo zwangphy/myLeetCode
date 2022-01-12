@@ -23,6 +23,13 @@ my solutions to some leetcode and other coding problems
   * [longest common prefix (leetcode 14)](/leetcode/longest_common_prefix.md)
   * [capitalize words](/leetcode/capitalize_words.ipynb)  
   * [length of last word (leetcode 58)](/leetcode/length_of_last_word.md)
+* Binary trees
+  * [Tree traversal]
+    * [Prorder, postorder, inorder traversal](/leetcode/tree_traversal.md)
+    * [Level order traversal](/leetcode/level_order_traversal.md)
+  * [maximum depth of binary tree (leetcode 104)](/leetcode/maximum_depth_of_binary_tree.md)
+  * [symmetric tree (leetcode 101)](/leetcode/symmetric_tree.md)
+  * [path sum (leetcode 112)](/leetcode/path_sum.md)
 * Sorting
   * [sort array by increasing frequency (leetcode 1636)](/leetcode/sort_array_by_increasing_frequency.md)
   * [sort characters by frequency (leetcode 451)](/leetcode/sort_characters_by_frequency.md)
