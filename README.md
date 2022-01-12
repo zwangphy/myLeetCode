@@ -24,7 +24,7 @@ my solutions to some leetcode and other coding problems
   * [capitalize words](/leetcode/capitalize_words.ipynb)  
   * [length of last word (leetcode 58)](/leetcode/length_of_last_word.md)
 * Binary trees
-  * [Tree traversal]
+  * Tree traversal
     * [Prorder, postorder, inorder traversal](/leetcode/tree_traversal.md)
     * [Level order traversal](/leetcode/level_order_traversal.md)
   * [maximum depth of binary tree (leetcode 104)](/leetcode/maximum_depth_of_binary_tree.md)
@@ -50,7 +50,7 @@ my solutions to some leetcode and other coding problems
   * [valid mountain array (leetcode 941)](/leetcode/valid_mountain_array.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
-* Three points
+* Three pointers
   * [sort colors (leetcode 75)](/leetcode/sort_colors.md)
   * [string compression (leetcode 443)](/leetcode/string_compression.md) 
 * Sliding window
@@ -63,6 +63,8 @@ my solutions to some leetcode and other coding problems
 * Backtracking 
   * [generate parentheses (leetcode 22)](/leetcode/generate_parentheses.md)
   * [letter combinations of a phone number (leetcode 17)]()
+* DFS & BFS
+  * 
 * Dynamic programming
   * [fibonacci numbers (leetcode 509) and related problems](/leetcode/fib.md)
   * [min cost climbing stairs (leetcode 746)](/leetcode/min_cost_climbing_stairs.md)
