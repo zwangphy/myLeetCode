@@ -6,7 +6,14 @@ https://leetcode.com/problems/ransom-note/
 
 > Each letter in `magazine` can only be used once in `ransomNote`.
 
-## solution
+## solution: hash table
+
+Create a dictionary `mag`, which stores the frequency of all characters in `magazine`.
+
+Scan `ransomNote`, if we find a character not in `mag`, return false; if the character is in `mag`, deduect its value in `mag` by one.
+In the end, if all values in `mag` are non-negative, return true; otherwise return false.
+
+Time complexity: O(n), space O(n)
 
 ```
 class Solution:
