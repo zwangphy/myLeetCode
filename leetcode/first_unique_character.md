@@ -6,6 +6,12 @@ https://leetcode.com/problems/first-unique-character-in-a-string/
 
 ## solution
 
+Create a dictionary `dic`. Scan the string, if the character is not in `dic`, set its value by the index; if it's already in `dic`, reset
+its value by `-1`. In the end, all repeating characters will have negative values in `dic`, and unique characters will have non-negative values
+(set by their indices).
+
+Time complexity: O(n), space O(n)
+
 ```
 class Solution:
     def firstUniqChar(self, s: str) -> int:
