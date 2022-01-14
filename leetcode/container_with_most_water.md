@@ -24,9 +24,9 @@ class Solution(object):
         return vol
 ```
 
-Complexity: O(n^2)
+Time complexity: O(n^2)
 
-## better solution
+## two-pointer solution
 
 Create two indices. One index, i, runs from the leftmost element and the other, j, from rightmost.
 If height[i] < height[j], then varying j will not help you find a larger volume. 
@@ -47,4 +47,4 @@ class Solution:
         return vol
 ```        
 
-Complexity: O(n)
+Time complexity: O(n)
