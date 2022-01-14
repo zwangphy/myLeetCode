@@ -12,7 +12,14 @@ https://leetcode.com/problems/isomorphic-strings/
 
 ## solution: hash table
 
-time complexity: O(n), space: O(n)
+If `s` and `t` are isomorphic, their characters have a one-to-one correspondance 
+and this correspondance can be stored in a dictionary such that `dic[s[i]] = t[i]`. 
+For these situations we need to return false:
+1. If `len(s) != len(t)`, return false.
+2. If `s[i]` is not `dic` but `t[i]` is already in `dic.values()`, return false because no two characters may map to the same character.
+3. If `s[i]` is already in `dic` but `dic[s[i]] != t[i]`, return false because `s[i]` can't map to two characters.
+
+Time complexity: O(n), space: O(n)
 
 ```
 class Solution:
