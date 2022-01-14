@@ -10,7 +10,7 @@ https://leetcode.com/problems/two-sum/
 
 ## solution 1 (brute force)
 
-Compute the sum of every pair and check if it equal `target`. 
+Compute the sum of every pair and check if it equals `target`. 
 
 Time complexity: O(n^2)
 
