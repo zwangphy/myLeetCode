@@ -60,11 +60,9 @@ my solutions to some leetcode and other coding problems
 * Binary search
   * [sqrt(x) (leetcode 69)](/leetcode/sqrt(x).md)
   * [search insert position (leetcode 35)](/leetcode/search_insert_position.md) 
-* Backtracking 
+* Backtracking, DFS & BFS
   * [generate parentheses (leetcode 22)](/leetcode/generate_parentheses.md)
   * [letter combinations of a phone number (leetcode 17)]()
-* DFS & BFS
-  * 
 * Dynamic programming
   * [fibonacci numbers (leetcode 509) and related problems](/leetcode/fib.md)
   * [min cost climbing stairs (leetcode 746)](/leetcode/min_cost_climbing_stairs.md)
