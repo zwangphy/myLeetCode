@@ -4,8 +4,8 @@ https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 ## recursive solution
 
-Base cases: a null root has zero length; 
-a root with no children nodes has length = one.
+Base cases: a null root has zero depth; 
+a root with no children nodes has depth = one.
 
 ```
 class Solution:
