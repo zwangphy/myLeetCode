@@ -1,6 +1,11 @@
 # level order traversal
 
-BFS
+## BFS
+
+Starting from the root, we visit its left and right nodes. Store their values to a list `traversal`, to be appended to the output list `res`. 
+Also we store these two nodes to a list `nextsearch`. In the next iteration, we will visit all the nodes in `nextsearch`, store the values of
+their children nodes in `traversal` (to be appended to `res`) and the position of children nodes in `nextsearch`. The program ends when there are
+no nodes in `nextsearch` to visit.
 
 ```
 class Solution:
