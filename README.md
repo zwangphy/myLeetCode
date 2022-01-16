@@ -62,14 +62,18 @@ my solutions to some leetcode and other coding problems
   * [search insert position (leetcode 35)](/leetcode/search_insert_position.md) 
 * Backtracking, DFS & BFS
   * [generate parentheses (leetcode 22)](/leetcode/generate_parentheses.md)
-  * [letter combinations of a phone number (leetcode 17)]()
+  * [letter combinations of a phone number (leetcode 17)](/leetcode/letter_combination.md)
+  * [combination sum (leetcode 78)](/leetcode/combination_sum.md)
+  * [subsets (leetcode 39)](/leetcode/subsets.md)
 * Dynamic programming
   * [fibonacci numbers (leetcode 509) and related problems](/leetcode/fib.md)
+  * [binary numbers with no consecutive ones](/leetcode/no_consecutive_ones.md)
   * [min cost climbing stairs (leetcode 746)](/leetcode/min_cost_climbing_stairs.md)
   * [unique paths (leetcode 62)](/leetocde/unique_paths.md)
   * [maximum subarray (leetcode 53)](/leetcode/maximum_subarray.md)
   * [decode ways (leetcode 91)](/leetcode/decode_ways.md)
   * [coin change (leetcode 322)](/leetcode/coin_change.md)
+  * [jump game (leetcode 55)](/leetcode/jump_game.md)
 * Calculators
   * [plus one (leetcode 66)](/leetcode/plus_one.md) 
 * Math related
