@@ -27,6 +27,7 @@ my solutions to some leetcode and other coding problems
   * Tree traversal
     * [Prorder, postorder, inorder traversal](/leetcode/tree_traversal.md)
     * [Level order traversal](/leetcode/level_order_traversal.md)
+    * [range sum of BST](/leetcode/range_sum_of_BST.md)
   * [maximum depth of binary tree (leetcode 104)](/leetcode/maximum_depth_of_binary_tree.md)
   * [symmetric tree (leetcode 101)](/leetcode/symmetric_tree.md)
   * [path sum (leetcode 112)](/leetcode/path_sum.md)
