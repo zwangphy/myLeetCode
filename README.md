@@ -27,7 +27,7 @@ my solutions to some leetcode and other coding problems
   * Tree traversal
     * [Prorder, postorder, inorder traversal](/leetcode/tree_traversal.md)
     * [Level order traversal](/leetcode/level_order_traversal.md)
-    * [range sum of BST](/leetcode/range_sum_of_BST.md)
+    * [range sum of BST (leetcode 938)](/leetcode/range_sum_of_BST.md)
   * [maximum depth of binary tree (leetcode 104)](/leetcode/maximum_depth_of_binary_tree.md)
   * [symmetric tree (leetcode 101)](/leetcode/symmetric_tree.md)
   * [path sum (leetcode 112)](/leetcode/path_sum.md)
@@ -70,7 +70,7 @@ my solutions to some leetcode and other coding problems
   * [fibonacci numbers (leetcode 509) and related problems](/leetcode/fib.md)
   * [binary numbers with no consecutive ones](/leetcode/no_consecutive_ones.md)
   * [min cost climbing stairs (leetcode 746)](/leetcode/min_cost_climbing_stairs.md)
-  * [unique paths (leetcode 62)](/leetocde/unique_paths.md)
+  * [unique paths (leetcode 62)](/leetcode/unique_paths.md)
   * [maximum subarray (leetcode 53)](/leetcode/maximum_subarray.md)
   * [decode ways (leetcode 91)](/leetcode/decode_ways.md)
   * [coin change (leetcode 322)](/leetcode/coin_change.md)
