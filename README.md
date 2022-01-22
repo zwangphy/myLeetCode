@@ -71,6 +71,7 @@ my solutions to some leetcode and other coding problems
   * [binary numbers with no consecutive ones](/leetcode/no_consecutive_ones.md)
   * [min cost climbing stairs (leetcode 746)](/leetcode/min_cost_climbing_stairs.md)
   * [unique paths (leetcode 62)](/leetcode/unique_paths.md)
+  * [minimum path sum (leetcode 64)](/leetcode/minimum_path_sum.md)
   * [maximum subarray (leetcode 53)](/leetcode/maximum_subarray.md)
   * [decode ways (leetcode 91)](/leetcode/decode_ways.md)
   * [coin change (leetcode 322)](/leetcode/coin_change.md)
