@@ -67,6 +67,7 @@ my solutions to some leetcode and other coding problems
   * [unique paths (leetcode 62)](/leetcode/unique_paths.md)
   * [minimum path sum (leetcode 64)](/leetcode/minimum_path_sum.md)
   * [maximum subarray (leetcode 53)](/leetcode/maximum_subarray.md)
+  * [knapsack problem](/leetcode/knapsack.md)
   * [decode ways (leetcode 91)](/leetcode/decode_ways.md)
   * [coin change (leetcode 322)](/leetcode/coin_change.md)
   * [jump game (leetcode 55)](/leetcode/jump_game.md) 
