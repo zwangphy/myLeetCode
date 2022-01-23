@@ -70,7 +70,7 @@ my solutions to some leetcode and other coding problems
   * [knapsack problem](/leetcode/knapsack.md)
   * [decode ways (leetcode 91)](/leetcode/decode_ways.md)
   * [coin change (leetcode 322)](/leetcode/coin_change.md)
-  * [jump game (leetcode 55)](/leetcode/jump_game.md) 
+  * [jump game I, II, III](/leetcode/jump_game.md) 
 * Backtracking, DFS & BFS
   * [letter combinations of a phone number (leetcode 17)](/leetcode/letter_combination.md)
   * [binary numbers with no consecutive ones](/leetcode/no_consecutive_ones.md)
