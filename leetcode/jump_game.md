@@ -23,3 +23,33 @@ class Solution:
 ```
 
 ## solution 2: dp
+
+# jump game II (leetcode 45)
+
+https://leetcode.com/problems/jump-game-ii/
+
+## solution: dp
+
+Let `dp[i]` be the min step to reach the i-th index. 
+Then, `dp[i] = 1 + dp[j]`, where j is the smallest index such that 
+` j + nums[j] >= i`. Namely, j is the smallest index where you can
+jump to i by one step.
+
+```
+class Solution:
+    def jump(self, nums: List[int]) -> int:
+      
+        if len(nums) == 1:
+            return 0
+        
+        dp = [0] * len(nums)
+
+        furthest_index = 0 
+
+        for i in range(1, len(nums)):
+            while i > furthest_index + nums[furthest_index] and furthest_index < i:
+                furthest_index += 1
+            dp[i] = dp[furthest_index] + 1
+        
+        return dp[-1]
+```
