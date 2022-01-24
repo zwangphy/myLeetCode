@@ -47,3 +47,43 @@ class Solution:
         if res:
             return res
 ```
+
+# 3 sum closest (leetcode 16)
+
+https://leetcode.com/problems/3sum-closest/
+
+## solution:
+
+```
+class Solution:
+    def threeSumClosest(self, nums: List[int], target: int) -> int:
+        
+        if len(nums) == 3:
+            return sum(nums)
+        
+        nums.sort()
+        
+        def f(a, b, c):
+            return nums[a] + nums[b] + nums[c]
+        
+        threeSum = f(0,1,2)
+        diff = target - threeSum
+        
+        for i in range(len(nums)-2):
+            left, right = i+1, len(nums)-1
+            while left < right:
+                if f(i, left, right) == target:
+                    return target
+                elif f(i, left, right) < target:
+                    if abs(target-f(i,left,right)) < abs(diff):
+                        threeSum = f(i,left,right)
+                        diff = target - threeSum
+                    left += 1
+                else:
+                    if abs(target-f(i,left,right)) < abs(diff):
+                        threeSum =f(i,left,right)
+                        diff = target - threeSum
+                    right -= 1
+        return threeSum
+               
+```
