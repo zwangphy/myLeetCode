@@ -51,7 +51,7 @@ my solutions to some leetcode and other coding problems
   * [valid mountain array (leetcode 941)](/leetcode/valid_mountain_array.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
-  * [3 sum (leetcode 15)](/leetcode/3sum.md)
+  * [3 sum, 3 sum closest, 3 sum smaller](/leetcode/3sum.md)
 * Three pointers
   * [sort colors (leetcode 75)](/leetcode/sort_colors.md)
   * [string compression (leetcode 443)](/leetcode/string_compression.md) 
