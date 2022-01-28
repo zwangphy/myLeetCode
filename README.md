@@ -60,6 +60,7 @@ my solutions to some leetcode and other coding problems
   * [max consecutive ones (leetcode 485)](/leetcode/max_consecutive_ones.md)
   * [longest substring without repeating characters (leetcode 3)](/leetcode/longest_substring.md)
   * [substrings of identical characters](/leetcode/substrings_of_identical_characters.md)
+  * [arithmetic slices (leetcode 413)](/leetcode/arithmetic_slices.md)
 * Binary search
   * [sqrt(x) (leetcode 69)](/leetcode/sqrt(x).md)
   * [search insert position (leetcode 35)](/leetcode/search_insert_position.md) 
