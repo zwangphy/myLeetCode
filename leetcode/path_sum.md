@@ -18,7 +18,7 @@ class Solution:
         return recur(root, targetSum)
 ```
 
-## path sum II (leetcode 113)
+# path sum II (leetcode 113)
 
 https://leetcode.com/problems/path-sum-ii/
 
