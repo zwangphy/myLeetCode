@@ -9,6 +9,7 @@ Base cases:
 * if one root is null and the other is not, return false; 
 * if two roots have different values, return false.
 
+
 ```
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
