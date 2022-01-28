@@ -34,6 +34,8 @@ there are n substrings with length one, n-1 substrings with length two, ..., one
 Back to the general case. If all character between `S[i]` and `S[j]` are found to be identical, 
 we can directly compute the number of valid subtrings between `i` and `j` by the formula and then reset `i` by `j+1`.
 
+Note: don't forget to count in the number of valid substrings in the final sliding window.
+
 Time complexity: O(n)
 
 ```
