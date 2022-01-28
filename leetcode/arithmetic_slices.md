@@ -9,6 +9,14 @@ This question is similar to the previous question substrings of identical charac
 Let the first sliding window start from index `l = 1`. We scan the input array from index `i = 2`.
 If `nums[i] - nums[i-1] = nums[l] - nums[l-1]`, continue. Otherwise, reset the the sliding window to start from `i`.
 
+In an arithmetic arrays of length y, there are 1 subarray of length y, 2 of length y-1, ..., y-1 of length 2 and y of length 1.
+In total, there are y*(y+1)/2 subarrays. All the subarrays with at least three elements are also arithmetic. So the number of
+arithmetic slices is y*(y+1)/2-2y+1.
+
+Note: don't forget to count in the arithmetic slices in the final sliding window.
+
+Complexity: time O(n), space O(1)
+
 ```
 class Solution:
     def numberOfArithmeticSlices(self, nums: List[int]) -> int:
