@@ -41,18 +41,19 @@ def f(S):
     
     res = 0
     
-    i = 0
-    j = 0
+    # l = start of sliding window
+    l = 0  
+    i = 1
     
-    while j <= len(S) - 1:
-        for j in range(i,len(S)):
-            n = j - i
-            if S[j] != S[i]:
-                res += n*(n+1)/2
-                i = j
-                break
-            if j == len(S) - 1:
-                n = j - i + 1
-                res += n*(n+1)/2
-                return int(res)
+    while i <= len(S)-1:
+        n = i - l
+        if S[i] != S[l]:
+            res += n*(n+1)/2
+            l = i
+        else:
+            i += 1
+
+    n = i - l
+    res += n*(n+1)/2
+    return int(res)
 ```
