@@ -31,7 +31,7 @@ my solutions to some leetcode and other coding problems
   * [maximum depth of binary tree (leetcode 104)](/leetcode/maximum_depth_of_binary_tree.md)
   * [same tree (leetcode 100)](/leetcode/same_tree.md)
   * [symmetric tree (leetcode 101)](/leetcode/symmetric_tree.md)
-  * [path sum (leetcode 112)](/leetcode/path_sum.md)
+  * [path sum I, II, III](/leetcode/path_sum.md)
 * Sorting
   * [sort array by increasing frequency (leetcode 1636)](/leetcode/sort_array_by_increasing_frequency.md)
   * [sort characters by frequency (leetcode 451)](/leetcode/sort_characters_by_frequency.md)
