@@ -65,6 +65,7 @@ my solutions to some leetcode and other coding problems
   * [search insert position (leetcode 35)](/leetcode/search_insert_position.md) 
 * Dynamic programming
   * [fibonacci numbers (leetcode 509) and related problems](/leetcode/fib.md)
+  * [pascal's triangle (leetcode 118, 119)](/leetcode/pascal.md)
   * [min cost climbing stairs (leetcode 746)](/leetcode/min_cost_climbing_stairs.md)
   * [unique paths (leetcode 62)](/leetcode/unique_paths.md)
   * [minimum path sum (leetcode 64)](/leetcode/minimum_path_sum.md)
