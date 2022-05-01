@@ -17,6 +17,7 @@ my solutions to some leetcode and other coding problems
   * [valid parenthese (leetcode 20)](/leetcode/valid_parenthese.md)
   * [minimum add to make parentheses valid (leetcode 921)](/leetcode/make_parentheses_valid.md)
   * [baseball game (leetcode 682)](/leetcode/baseball_game.md)
+  * [backspace string comparison (leetcode 844)](/leetcode/backspace_string.md)
 * Strings
   * [convert list to string](/leetcode/convert_list_to_string.md)
   * [valid palindrome (leetcode 125)](/leetcode/valid_palindrome.md) 
