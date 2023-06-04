@@ -52,6 +52,7 @@ my solutions to some leetcode and other coding problems
   * [squares of a sorted array (leetcode 977)](/leetcode/sqaures_of_a_sorted_array.md)
   * [valid mountain array (leetcode 941)](/leetcode/valid_mountain_array.md)
   * [container with most water (leetcode 11)](/leetcode/container_with_most_water.md)
+  * [trapping rain water (leetcode 42)](/leetcode/trapping_rain_water.md)
   * [max distance between two unequal elements](/leetcode/max_distance.md)
   * [3 sum, 3 sum closest, 3 sum smaller](/leetcode/3sum.md)
 * Three pointers
